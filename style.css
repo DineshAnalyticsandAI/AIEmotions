@@ -1,0 +1,18 @@
+h4{
+
+  border: solid black 1px;
+  width: 280px;
+  block-size: 25px;
+  padding: 5px;
+  border-width: 3px;
+}
+
+p{
+  font-size:larger;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a{
+  font-size: larger;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
